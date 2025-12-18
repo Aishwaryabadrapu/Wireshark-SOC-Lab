@@ -50,3 +50,10 @@ connection initiation was identified. Cleartext HTTP traffic was observed, highl
 security risks. TCP SYN packet analysis shows how reconnaissance or connection attempts can be 
 detected during initial investigation. This exercise reflects real-world SOC triage and traffic 
 analysis workflows.
+
+## Detailed Analysis & Findings
+➡️ See full SOC-style findings here: [findings.md](findings.md)
+
+## Evidence
+All packet capture screenshots used for this analysis are available in the [screenshots](screenshots/) directory.
+
