@@ -4,7 +4,7 @@
 To capture and analyze network traffic using Wireshark and identify normal and suspicious communication patterns relevant to a SOC L1 analyst role.
 
 ## Scenario
-
+A SOC analyst investigates network traffic from a user workstation after suspicious browsing activity was reported. The objective is to analyze captured packets to identify normal and potentially suspicious traffic patterns such as DNS queries, HTTP communication, ICMP activity, and TCP connection attempts.
 ## Tools Used
 - Wireshark
 - Windows OS
