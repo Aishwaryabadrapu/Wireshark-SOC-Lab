@@ -25,6 +25,24 @@ A SOC analyst investigates network traffic from a user workstation after suspici
 - ICMP traffic used for connectivity checks
 - SYN packets indicate TCP connection initiation
 
+## Evidence
+
+### Capture Start & Stop
+![Capture Started](screenshots/capture_started.png)
+![Capture Stopped](screenshots/capture_stopped.png)
+
+### Protocol & Traffic Analysis
+![DNS Filter](screenshots/protocol_filter_dns.png)
+![DNS Analysis](screenshots/dns_analysis.png)
+![HTTP TCP Stream](screenshots/http_tcp_stream.png)
+![ICMP Packets](screenshots/icmp_packets.png)
+![TCP SYN Packets](screenshots/syn_packets.png)
+
+### Statistics
+![Protocol Hierarchy](screenshots/protocol_hierarchy.png)
+![Conversations](screenshots/conversations.png)
+
+
 ## Conclusion
 This lab demonstrates packet-level network traffic analysis using Wireshark from a SOC L1 perspective. 
 Normal user activity such as DNS resolution, HTTP communication, ICMP connectivity checks, and TCP 
