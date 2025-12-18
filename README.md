@@ -1,2 +1,13 @@
-# Wireshark-SOC-Lab
-Packet-level traffic analysis using Wireshark for SOC L1 investigation
+# Wireshark SOC Lab – Network Traffic Analysis
+
+## Objective
+
+## Scenario
+
+## Tools Used
+
+## Tasks Performed
+
+## Key Findings
+
+## Conclusion
